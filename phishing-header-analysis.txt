@@ -1,0 +1,9 @@
+Return-Path: <alert@email-lrecords.com>
+Received: from [185.234.217.88] (HELO mail.fake-server.com)
+Date: Fri, 22 Jan 2021 16:22:00 +0000
+From: "Microsoft" <microsofth@email-lrecords.com>
+Reply-To: noreply@alert-secure365.com
+Subject: High-severity alert: Phish delivered due to tenant or user override
+SPF: FAIL
+DKIM: NONE
+DMARC: NONE
